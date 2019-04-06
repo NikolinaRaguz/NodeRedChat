@@ -1,7 +1,8 @@
 nodered
 =======
 
-### About
+### Contributors:
+https://gitlab.com/anjapec
 
 Node Red basic chat with Cassandra
 
