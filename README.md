@@ -3,6 +3,7 @@ nodered
 
 ### Contributors:
 https://gitlab.com/anjapec
+https://github.com/v-robert
 
 Node Red basic chat with Cassandra
 
