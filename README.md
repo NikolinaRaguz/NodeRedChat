@@ -1,7 +1,7 @@
 nodered
 =======
 
-### Contributors:
+### Collaborators:
 https://gitlab.com/anjapec
 https://github.com/v-robert
 
